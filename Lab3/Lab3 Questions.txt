@@ -1,0 +1,8 @@
+1) By printing os.environ.items()
+2) The QUERY_STRING env variable
+3) The HTTP_USER_AGENT env variable
+4) The POSTed data is passed to login.py and retrieved using cgi.FieldStorage()
+5) Set-Cookie: cookie_name=cookie_value
+6) HTTP_COOKIE
+7) A cookie is data used to cache client information.
+8) https://github.com/kli885/CMPUT404-Labs/tree/main/Lab3
