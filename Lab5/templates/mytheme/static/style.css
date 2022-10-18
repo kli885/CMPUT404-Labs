@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    background-color: #000000;
+    color: #85E21F;
+  }
+
+a {
+  color: #FF9A00;
+}
+
+a:hover {
+  color: #EEEB27;
+}
+
+p {
+  color: #902EBB;
+}
